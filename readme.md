@@ -22,7 +22,7 @@ plugin https://stylebot.dev/
 
 - Change the tenants ulr
 
-![image](https://user-images.githubusercontent.com/40337213/168836573-abc2b624-1ca0-482a-aceb-23561a4cde79.png)
+![image](https://user-images.githubusercontent.com/40337213/168840503-a2a86478-40b5-4ff6-a1c3-9f21452a1853.png)
 ![image](https://user-images.githubusercontent.com/40337213/168840219-c6f4a9f4-091a-4b38-b77e-b4de113eea98.png)
 
 
