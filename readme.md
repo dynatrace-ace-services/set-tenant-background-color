@@ -17,6 +17,7 @@ plugin https://stylebot.dev/
 - Download this json https://raw.githubusercontent.com/dynatrace-ace-services/set-tenant-background-color/main/stylebot_backup_jll.json?token=GHSAT0AAAAAABS4LJKST2NVE4URCMEGDO7IYUDWFUQ
 - Change the tenants url
 - And import it in Plugin / Stylebot / Option / Sync : 
+
 ![image](https://user-images.githubusercontent.com/40337213/168836880-ffaf2c29-7aee-4b27-9dc8-19e7e44c2643.png)
 
 You can adapt the color kackgtound configuration from Plugin / Stylebot / Option / Styles  : 
