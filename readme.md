@@ -14,8 +14,6 @@ plugin https://stylebot.dev/
   ![image](https://user-images.githubusercontent.com/40337213/168835180-95b10d6c-c36e-4877-aa57-5949cbd333af.png)
 
 ## Configuration
+Download this json 
 Import Plugin / Stylebot / Option / Sync
 
-
-
-zd
