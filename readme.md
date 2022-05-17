@@ -15,6 +15,10 @@ plugin https://stylebot.dev/
 
 ## Configuration
 - Download this json https://raw.githubusercontent.com/dynatrace-ace-services/set-tenant-background-color/main/stylebot_backup_jll.json
+
+$.getJSON("https://raw.githubusercontent.com/dynatrace-ace-services/set-tenant-background-color/main/stylebot_backup_jll.jso", function(data){
+      console.log(data);
+}
 - Change the tenants url
 - And import it in Plugin / Stylebot / Option / Sync : 
 
