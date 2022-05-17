@@ -14,7 +14,7 @@ plugin https://stylebot.dev/
   ![image](https://user-images.githubusercontent.com/40337213/168835180-95b10d6c-c36e-4877-aa57-5949cbd333af.png)
 
 ## Configuration
-- Download the zip json https://github.com/dynatrace-ace-services/set-tenant-background-color/archive/refs/heads/main.zip
+- Download the zip file https://github.com/dynatrace-ace-services/set-tenant-background-color/archive/refs/heads/main.zip
 - Extract the json file
 - Change the tenants ulr
 - Import it in Plugin / Stylebot / Option / Sync : 
