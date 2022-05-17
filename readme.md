@@ -8,3 +8,14 @@ Set the background color of your different tenants to easily distinguish them vi
 
 ## Test
 ![image](https://user-images.githubusercontent.com/40337213/168834437-83909267-ad94-4e6b-b4b9-372e38357d59.png)
+
+## Installation 
+plugin https://stylebot.dev/
+  ![image](https://user-images.githubusercontent.com/40337213/168835180-95b10d6c-c36e-4877-aa57-5949cbd333af.png)
+
+## Configuration
+Import Plugin / Stylebot / Option / Sync
+
+
+
+zd
