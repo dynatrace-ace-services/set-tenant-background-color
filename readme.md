@@ -1,1 +1,2 @@
-# Set the boacground color of your different tenants to easily distinguish them visually
+# Background color 
+Set the background color of your different tenants to easily distinguish them visually
