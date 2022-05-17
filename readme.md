@@ -18,7 +18,7 @@ plugin https://stylebot.dev/
 - Change the tenants url
 - And import it in Plugin / Stylebot / Option / Sync : 
 
-![image](https://user-images.githubusercontent.com/40337213/168836880-ffaf2c29-7aee-4b27-9dc8-19e7e44c2643.png)
+![image](https://user-images.githubusercontent.com/40337213/168837079-ff3ff2ac-eace-4652-9154-f81ab3a4138c.png)
 
 You can adapt the color kackgtound configuration from Plugin / Stylebot / Option / Styles  : 
 ![image](https://user-images.githubusercontent.com/40337213/168836573-abc2b624-1ca0-482a-aceb-23561a4cde79.png)
