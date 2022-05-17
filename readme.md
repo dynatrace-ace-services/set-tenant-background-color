@@ -25,4 +25,5 @@ plugin https://stylebot.dev/
 ![image](https://user-images.githubusercontent.com/40337213/168840503-a2a86478-40b5-4ff6-a1c3-9f21452a1853.png)
 ![image](https://user-images.githubusercontent.com/40337213/168840219-c6f4a9f4-091a-4b38-b77e-b4de113eea98.png)
 
-
+If you want the same option for the all the users (without plugin), you can vote on this RFE : 
+https://community.dynatrace.com/t5/Dynatrace-product-ideas/RFE-possibility-to-modify-the-color-backgroud-of-a-tenant/idc-p/186664#M30066
