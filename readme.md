@@ -16,11 +16,12 @@ plugin https://stylebot.dev/
 ## Configuration
 - Download the zip file https://github.com/dynatrace-ace-services/set-tenant-background-color/archive/refs/heads/main.zip
 - Extract the json file
-- Change the tenants ulr
 - Import it in Plugin / Stylebot / Option / Sync : 
 
 ![image](https://user-images.githubusercontent.com/40337213/168837079-ff3ff2ac-eace-4652-9154-f81ab3a4138c.png)
 
-You can adapt the color kackgtound configuration from Plugin / Stylebot / Option / Styles  : 
+- Change the tenants ulr
 ![image](https://user-images.githubusercontent.com/40337213/168836573-abc2b624-1ca0-482a-aceb-23561a4cde79.png)
+![image](https://user-images.githubusercontent.com/40337213/168840219-c6f4a9f4-091a-4b38-b77e-b4de113eea98.png)
+
 
